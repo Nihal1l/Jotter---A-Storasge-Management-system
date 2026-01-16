@@ -247,7 +247,7 @@
     "variable": [
         {
             "key": "base_url",
-            "value": "http://127.0.0.1:8000"
+            "value": "https://jotter-a-storasge-management-system.onrender.com"
         },
         {
             "key": "access_token",
